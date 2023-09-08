@@ -1,4 +1,24 @@
-### ⚠ Under Construction ⚠
+## ✦ Hola!, me llamo FaKsho.
+Un chico de 18 años que está empezando a programar. Tengo conocimientos básicos sobre lógica y últimamente estoy usando java.
+
+📝 En qué ando.
+* Aprendiendo Java
+
+
+🏁 A qué apunto / Qué me interesa.
+* Desarrollo Backend
+* SQL Server
+
+
+📨 Contacto
+* Mail: [faksho@proton.me](mailto://faksho@proton.me)
+* Discord: @faksho
+  
+
+🔰 Skills
+* Ganas de aprender
+* Trabajo mejor en equipo
+* Nivel de inglés básico
 
 <!--
 **FaKsho/faksho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

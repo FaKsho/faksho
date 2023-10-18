@@ -17,7 +17,6 @@ Un chico de 18 años que está empezando a programar. Tengo conocimientos básic
 
 🔰 Skills
 * Ganas de aprender
-* Trabajo mejor en equipo
 * Nivel de inglés básico
 
 <!--

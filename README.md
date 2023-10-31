@@ -8,11 +8,6 @@ Un chico argentino con la intención de escapar de su país natal.
 🏁 A qué apunto / Qué me interesa.
 * Desarrollo Backend
 * SQL Server
-
-
-📨 Contacto
-* Mail: [faksho@proton.me](mailto://faksho@proton.me)
-* Discord: @faksho
   
 
 <!--

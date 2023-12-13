@@ -1,14 +1,6 @@
-## ✦ Hola!, soy FaKsho.
-Un chico argentino con la intención de escapar de su país natal.
+## ✦ Hi!, I'm FaKsho.
 
-📝 En qué ando.
-* Aprendiendo Java
-
-
-🏁 A qué apunto / Qué me interesa.
-* Desarrollo Backend
-* SQL Server
-  
+I don't have much to say, I'm just studying java c:
 
 <!--
 **FaKsho/faksho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

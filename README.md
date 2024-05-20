@@ -1,6 +1,13 @@
-## ✦ Hi!, I'm FaKsho.
+## Hola soy Facundo, pero prefiero que me digan FaKsho
 
-I don't have much to say, I'm just studying java c:
+Desarrollador junior de java 8, actualmente estudiando por mi cuenta.
+
+Qué manejo:
+* Java 8
+  - Swing
+  - MVC
+* MySQL
+
 
 <!--
 **FaKsho/faksho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

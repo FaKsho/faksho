@@ -7,7 +7,7 @@ Soy un desarrollador muy junior de Java. Estudio por mi cuenta y sufrio en el pr
   - Swing ⭐⭐
   - MVC ⭐
 * MySQL ⭐
-* HTML:5
+* WebDev
   - HTML ⭐
   - CSS ⭐
   - JavaScript ⭐

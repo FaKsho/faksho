@@ -1,12 +1,16 @@
-## Hola soy Facundo, pero prefiero que me digan FaKsho
+# Hola soy FaKsho, un gusto.
 
-Desarrollador junior de java 8, actualmente estudiando por mi cuenta.
+Soy un desarrollador muy junior de Java. Estudio por mi cuenta y sufrio en el proceso.
 
-Qué manejo:
-* Java 8
-  - Swing
-  - MVC
-* MySQL
+## ¿Qué manejo?
+* Java 8 ⭐⭐
+  - Swing ⭐⭐
+  - MVC ⭐
+* MySQL ⭐
+* HTML:5
+  - HTML ⭐
+  - CSS ⭐
+  - JavaScript ⭐
 
 
 <!--

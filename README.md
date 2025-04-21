@@ -2,6 +2,14 @@
     <h2>About Me</h2>
     <p>I'm a student interested in Java and I'am learning Spring Boot.</p>
 </div>
+
+
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/faksho/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 <!--
 **FaKsho/faksho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

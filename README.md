@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+    <h2>About Me</h2>
+    <p>I'm a student interested in Java and I'am learning Spring Boot.</p>
+</div>
 <!--
 **FaKsho/faksho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

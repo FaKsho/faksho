@@ -1,6 +1,6 @@
 <div align="center">
     <h2>About Me</h2>
-    <p>I'm a student interested in Java and I'am learning Spring Boot.</p>
+    <p>I'm a student interested in Java, Spring Boot and Minecraft.</p>
 </div>
 
 
